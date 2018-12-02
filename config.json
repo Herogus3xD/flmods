@@ -6,7 +6,7 @@
     "failedFeeds": true
   },
   "bot": {
-    "token": "NTE4NjI2MDAwODQ2OTc5MDgx.DuTfuw.4BlMOKdfO_f2CVWCxBK-21E_qMM",
+    "token": "",
     "enableCommands": true,
     "prefix": "~",
     "status": "online",
