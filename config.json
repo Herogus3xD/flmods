@@ -39,7 +39,7 @@
     "sendOldMessages": false,
     "defaultMaxAge": 1,
     "cycleMaxAge": 1,
-    "defaultMessage": ":newspaper:  |  **{title}**\n\n{link}\n\n{subscriptions}",
+    "defaultMessage": "**{title}**\n{link}",
     "showRegexErrs": true,
     "imgPreviews": true,
     "imgLinksExistence": true,
